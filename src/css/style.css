@@ -1,0 +1,23 @@
+body {
+  color: #999;
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+.cell {
+  display: flex;
+  justify-content: space-around;
+  width: 120px;
+  height: 120px;
+  border: 1px solid black;
+  margin: 1px;
+}
+
+.cell__img {
+  width: 100%;
+  height: auto;
+}
+
