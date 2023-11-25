@@ -1,4 +1,4 @@
-name: Netology AHJ
+name: DOM_task1
 
 on: [push, pull_request]
 
